@@ -15,7 +15,7 @@ In addition to the platforms already available in the `FUNDING.yml` file, the fo
 | Bitcoin | `bitcoin: ADDRESS` |
 | Ethereum | `ethereum: ADDRESS \| NAME` |
 
-The `NAME` for the `ethereum` field would be an [`ENS`](https://ens.domains/) name that resolves to the correct address.
+The `NAME` for the `ethereum` field would be an [`ENS`](https://ens.domains/) name that resolves to the correct address. By simply allowing an Ethereum address, any cryptocurrency built on top of the Ethereum network would also automatically be supported. Stablecoins pegged to `USD` like `DAI` and `USDC` may be of particular benefit to open source project maintainers, as they would essentially be receiving `USD`.
 
 ## Result
 
