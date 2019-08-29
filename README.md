@@ -13,4 +13,6 @@ In addition to the platforms already available in the `FUNDING.yml` file, the fo
 | Platform | Syntax |
 | --- | --- |
 | Bitcoin | `bitcoin: ADDRESS` |
-| Ethereum | `ethereum: ADDRESS` |
+| Ethereum | `ethereum: ADDRESS | NAME` |
+
+The `NAME` for the `ethereum` field would be an [`ENS`](https://ens.domains/) name that resolves to the correct address.
