@@ -16,3 +16,7 @@ In addition to the platforms already available in the `FUNDING.yml` file, the fo
 | Ethereum | `ethereum: ADDRESS | NAME` |
 
 The `NAME` for the `ethereum` field would be an [`ENS`](https://ens.domains/) name that resolves to the correct address.
+
+## Result
+
+Bitcoin and Ethereum would have a native home with GitHub Sponsors. This would help raise awareness of cryptocurrency as a viable way to fund open source projects. Donations could come in through individual contributors clicking on the `Sponsor` button and manually paying out, or other projects could parse out the addresses and provide automated solutions for donating cryptocurrency.
