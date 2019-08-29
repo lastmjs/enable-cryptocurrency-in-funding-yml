@@ -6,9 +6,9 @@ This repository's purpose is to gather the interest that the community has in ad
 
 This proposal focuses on the two most popular cryptocurrencies, Bitcoin and Ethereum. More could come, but adding these two would be a great start. The proposal is as follows:
 
-Add `bitcion` and `ethereum` fields to the `FUNDINY.yml` file for GitHub Sponsors.
+Add `bitcoin` and `ethereum` fields to the `FUNDING.yml` file for GitHub Sponsors.
 
-In addition to the platforms already available in the `FUNDING.yml` file, add the following:
+In addition to the platforms already available in the `FUNDING.yml` file, the following would be added:
 
 | Platform | Syntax |
 | --- | --- |
