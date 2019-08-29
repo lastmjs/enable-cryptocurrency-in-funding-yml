@@ -28,7 +28,6 @@ When users click on the `Sponsor` button of a repository, hyperlinks to the plat
   * Here is an example Bitcoin hyperlink that could be presented to the user: [bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq](https://btc.com/bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq)
   * Here is an example Ethereum hyperlink that could be presented to the user: [0xc9bc72fe58c5FAcc478514313FbA09d13ee3742b](https://etherscan.io/address/0xc9bc72fe58c5FAcc478514313FbA09d13ee3742b) 
   * A hyperlink to a general explanatory page for Bitcoin or Ethereum could be presented, showing the user common tools and methods for donating Bitcoin or Ethereum, specific to the address linked to
-  * A custom hyperlink
 
 ## Result
 
