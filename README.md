@@ -21,7 +21,7 @@ The `NAME` for the `ethereum` field would be an [`ENS`](https://ens.domains/) na
 
 ### Presentation
 
-When users click on the `Sponsor` button of a repository, hyperlinks to the platforms found in the `FUNDING.yml` file are automatically shown. Since Bitcoin and Ethereum are decentralized networks, there is no single official web presence to send a user to when clicking on an address. There are a few options for generated a hyperlink:
+When users click on the `Sponsor` button of a repository, hyperlinks to the platforms found in the `FUNDING.yml` file are automatically shown. Since Bitcoin and Ethereum are decentralized networks, there is no single official web presence to send a user to when clicking on an address. There are a few options for generating a hyperlink:
 
 * No hyperlink could be generated. The user would just be presented with the plain text address
 * A hyperlink to a popular block explorer could be added
