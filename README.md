@@ -1,6 +1,6 @@
 # Enable cryptocurrency in FUNDING.yml
 
-This repository is to show the interest that the community has in adding cryptocurrencies as a funding platform for GitHub Sponsors. Star this repo if you'd like to see cryptocurrencies added as official options to the FUNDING.yml file for GitHub Sponsors.
+This repository's purpose is to gather the interest that the community has in adding cryptocurrencies as a funding platform for GitHub Sponsors. Star this repo if you'd like to see cryptocurrencies added as official options to the FUNDING.yml file for GitHub Sponsors.
 
 ## Proposal
 
